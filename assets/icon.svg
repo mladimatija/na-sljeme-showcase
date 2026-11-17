@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Na Sljeme">
+	<rect width="512" height="512" rx="112" fill="#0e6e8a" />
+	<!-- cable line -->
+	<path d="M64 150 L448 110" stroke="#e8f5ee" stroke-width="10" stroke-linecap="round" />
+	<!-- hanger -->
+	<path d="M256 130 L256 196" stroke="#e8f5ee" stroke-width="10" stroke-linecap="round" />
+	<!-- gondola cabin -->
+	<rect x="178" y="196" width="156" height="120" rx="26" fill="#ffffff" />
+	<rect x="200" y="224" width="112" height="44" rx="10" fill="#0e6e8a" />
+	<!-- mountain -->
+	<path d="M96 404 L208 300 L288 372 L360 312 L432 404 Z" fill="#e8f5ee" opacity="0.92" />
+</svg>
